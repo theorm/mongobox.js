@@ -1,0 +1,28 @@
+{
+  "name": "mongobox",
+  "version": "0.0.1",
+  "description": "Run sandboxed MongoDB instance inside a node.js app.",
+  "keywords": [
+    "mongodb",
+    "db",
+    "test",
+    "sandbox"
+  ],
+  "author": "Roman Kalyakin <roman@kalyakin.com>",
+  "homepage": "http://github.com/theorm/mongobox.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/theorm/mongobox.js.git"
+  },
+  "dependencies": {
+    "temporary": "0.0.8",
+    "lodash": "~2.4.1",
+    "freeport": "~1.0.2"
+  },
+  "devDependencies": {
+  },
+  "main": "index",
+  "engines": {
+    "node": ">=0.8.0"
+  }
+}
