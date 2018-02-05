@@ -1,4 +1,6 @@
-var MongoBox = require('../index').MongoBox;
+#!/usr/bin/env node
+
+var MongoBox = require('.').MongoBox;
 
 var box = new MongoBox();
 var timeout = 3; // sec
