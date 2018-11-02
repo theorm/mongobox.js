@@ -1,6 +1,6 @@
 {
   "name": "mongobox",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Run sandboxed MongoDB instance inside a node.js app.",
   "keywords": [
     "mongodb",
