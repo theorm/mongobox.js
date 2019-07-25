@@ -15,13 +15,11 @@
     "url": "git://github.com/theorm/mongobox.js.git"
   },
   "dependencies": {
-    "temporary": "0.0.8",
-    "lodash": "4.17.11",
-    "freeport": "1.0.5"
+    "lodash": "^4.17.11",
+    "freeport": "^1.0.5"
   },
-  "devDependencies": {},
   "main": "lib",
   "engines": {
-    "node": ">=0.8.0"
+    "node": ">=5.10.0"
   }
 }
